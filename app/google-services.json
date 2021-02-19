@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498082884556",
+    "project_id": "wamsy-f0b28",
+    "storage_bucket": "wamsy-f0b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498082884556:android:6faaed1c880d16de768b69",
+        "android_client_info": {
+          "package_name": "com.example.wamsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498082884556-4ukcimdbdok23modkvmgejsh7h3jcsun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0eFBg-2WndhHcRfyxnIW5jRZdHw1vPl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498082884556-4ukcimdbdok23modkvmgejsh7h3jcsun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
